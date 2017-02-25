@@ -1,2 +1,2 @@
-# shopolet-plugin
+# shopolet-plugins
 Plugins developed by the shopolet team
